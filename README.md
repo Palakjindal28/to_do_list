@@ -1,2 +1,17 @@
-# to_do_list
-A simple and responsive To-Do List web app built using HTML,CSS and JS. This project allows users to manage daily tasks with a clean, user-friendly interface. Great for practicing basic frontend design and layout skills.
+# 📝 To-Do List Web App
+
+A minimal and responsive To-Do List application designed using only HTML and CSS. This project is perfect for learning the structure and styling of web interfaces without JavaScript.
+
+## 🚀 Features
+- Add and view tasks 
+- Clean, modern UI
+- Responsive design for desktop and mobile
+
+## 📁 Technologies Used
+- HTML5
+- CSS
+- JavaScript
+
+## 💡 Future Scope
+- Store tasks in local storage
+- Enable task editing and deletion
